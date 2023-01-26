@@ -1,0 +1,15 @@
+//Stacks
+//imagine you have a stack of books. You start with one book. You put another book on top of it.
+//in order to get to the first book, you must first remove the book you put on top of it
+//this is called LIFO, last in first out
+//pushing is to put something to the end of the stack
+//popping is removing something from the end of the stack
+
+//Queue
+//imagine you have a line at the bank. You want to go see the teller.
+//There is no one in line so you go first. you are now at the front of the line.
+//more people enter after you. They enter the line, but fall behind you in the order in which they arrived.
+//once the teller is ready, you can leave and the person behind you moves up.
+//this is called FIFO, first in first out
+//enqueue is to put something at the end of the line
+//dequeue is to take something at the front of the Line
