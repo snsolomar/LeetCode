@@ -1,2 +1,7 @@
-Recursion is a method of solving a problem where the solution depends on solutions to smaller instances of the same problem.
+//Recursion is a method of solving a problem where the solution depends on solutions to smaller instances of the same problem.
 
+//in programming, recursion occurs when a function calls itselfs
+
+//any iterator function (aka function with a loop) can be a recursive instead
+//an example of this is provided in practice2.js
+//practice.js was a scratch board for my learning material related to recursion
